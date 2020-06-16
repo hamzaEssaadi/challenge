@@ -14,12 +14,12 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
  
  ## How to start this microservice app :
--please locate the project folder and run : 
-    'composer update' .<br>
-    'php artisan key:generate'.<br>
-    'php artisan serve'.<br>
--to see the result ,the end point url is : api/languages-list.<br>
--the functionality's code that returns the result is in:challenge\app\Http\Controllers\APIController.php.<br>
+1-please locate the project folder and run : 
+    1) 'composer update' .<br>
+    2) 'php artisan key:generate'.<br>
+    3) 'php artisan serve'.<br>
+2-to see the result ,the end point url is : api/languages-list.<br>
+3-the functionality's code that returns the result is in:challenge\app\Http\Controllers\APIController.php.<br>
  Thank you!
 
 
