@@ -15,9 +15,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  
  ## How to start this microservice app :
 1-please locate the project folder and run : <br>
-&nbsp;&nbsp;&nbsp;1) 'composer update' .<br>
-&nbsp;&nbsp;&nbsp;2) 'php artisan key:generate'.<br>
-&nbsp;&nbsp;&nbsp;3) 'php artisan serve'.<br>
+&nbsp;&nbsp;&nbsp;- 'composer update' .<br>
+&nbsp;&nbsp;&nbsp;- 'php artisan key:generate'.<br>
+&nbsp;&nbsp;&nbsp;- 'php artisan serve'.<br>
 2-to see the result ,the end point url is : api/languages-list.<br>
 3-the functionality's code that returns the result is in:challenge\app\Http\Controllers\APIController.php.<br>
  Thank you!
